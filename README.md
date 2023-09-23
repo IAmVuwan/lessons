@@ -1,2 +1,2 @@
-# YouTube Lessons
+# Lessons
 
